@@ -14,4 +14,4 @@ How to improve the script?
 
 Requirements:
 - Generate the DLP agent package installer for the latest version.
-- Include the AgentCleanup binary in the installer folder. you must request it from the manufacturer by opening a support case.
+- Include the AgentCleanup binary in the installer folder. You must request it from the manufacturer by opening a support case.
