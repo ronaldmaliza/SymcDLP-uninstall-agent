@@ -10,7 +10,7 @@ What does the script do?
 - Install the latest version of the DLP agent.
 
 How to improve the script?
-- - By obtaining from the operating system the installed DLP agent GUID for the uninstallation procedure.
+- By obtaining from the operating system the installed DLP agent GUID for the uninstallation procedure.
 
 Requirements:
 - Generate the DLP agent package installer for the latest version.
