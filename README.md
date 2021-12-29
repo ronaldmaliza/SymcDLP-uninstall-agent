@@ -1,0 +1,1 @@
+# SymcDLP-uninstall-agent
